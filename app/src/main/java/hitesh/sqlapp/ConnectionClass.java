@@ -11,7 +11,7 @@ import java.sql.DriverManager;
  * Created by H-PC on 16-Oct-15.
  */
 public class ConnectionClass {
-    String ip = "10.135.28.167";
+    String ip = "xx.xxx.xx.xxx";
     String classs = "net.sourceforge.jtds.jdbc.Driver";
     String db = "Andromed";
     String un = "akshay1202";
