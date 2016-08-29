@@ -7,9 +7,7 @@ import java.sql.SQLException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-/**
- * Created by H-PC on 16-Oct-15.
- */
+
 public class ConnectionClass {
     String ip = "xx.xxx.xx.xxx";
     String classs = "net.sourceforge.jtds.jdbc.Driver";
